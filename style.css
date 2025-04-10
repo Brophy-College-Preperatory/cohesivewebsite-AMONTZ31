@@ -1,4 +1,4 @@
-body {
+body { 
     font-family: sans-serif;
     background-color: #f4f4f4;
     color: #333;
@@ -9,7 +9,7 @@ body {
 header {
     background-color: #002244; /* College Navy */
     color: #fff;
-    padding: 1em;
+    padding: 1em 0;
     text-align: center;
 }
 
